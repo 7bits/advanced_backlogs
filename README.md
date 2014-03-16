@@ -9,6 +9,7 @@ Fetures
 -------
 
 - Automatic calculate done ratio of issue from spent and remaining hours
+- Automatic update status of story from tasks statuses
 
 
 Requirements
@@ -18,3 +19,5 @@ Requirements
   and [advanced_roadmap](https://github.com/7bits/advanced_roadmap)
 - Set "Calculate the issue done ratio with" to "Use the issue status" in the
   administration settings page /settings?tab=issues
+- Sort order of issue statuses from starting to ending states in the
+  administration settings page /issue_statuses
